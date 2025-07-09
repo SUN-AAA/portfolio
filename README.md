@@ -1,5 +1,5 @@
 
-<h3><a href = "www.sunaaa.kr">페이지링크[Go]</a></h3>
+<h3><a href = "https://www.sunaaa.kr/">페이지링크[Go]</a></h3>
 
 # Getting Started with Create React App
 
