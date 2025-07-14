@@ -1,6 +1,10 @@
 function header() {
     return(
-        <h1>정선아 PORTFOLIO</h1>
+        <div>
+            <h1>정선아 PORTFOLIO</h1>
+            <hr></hr>
+            <br></br>
+        </div>
     )
 }
 
