@@ -1,9 +1,9 @@
-import img from './assets/귀멸의칼날.jpeg'
+import img from '../assets/background.jpeg'
 
 
 function background() {
     return(
-        <img src={img} alt = "귀멸의칼날"></img>
+        <img src={img} alt = "background"></img>
     )
 }
 
