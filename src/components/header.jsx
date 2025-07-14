@@ -3,7 +3,6 @@ function header() {
         <div>
             <h1>정선아 PORTFOLIO</h1>
             <hr></hr>
-            <br></br>
         </div>
     )
 }
