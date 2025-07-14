@@ -1,4 +1,4 @@
-import img from '../assets/background.jpeg'
+import img from '../assets/background.jpg'
 import "../styles/background.css" 
 
 function background() {
