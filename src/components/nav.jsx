@@ -1,11 +1,14 @@
+import "../styles/flexbox.css";
+
 function nav(){
     return(
-        <div>
-            <a href="#profile">profile</a>
+        <div class="container">
+            <div><a href="#profile" class="item"><b>PROFILE</b></a></div>
+            <div><a href="#aboutme" class="item"><b>ABOUT ME</b></a></div>
+            <div><a href="#project" class="item"><b>PROJECT</b></a></div>
             <br></br>
-            <a href="#aboutme">aboutme</a>
             <br></br>
-            <hr></hr>
+            <br></br>
         </div>
     )
 }

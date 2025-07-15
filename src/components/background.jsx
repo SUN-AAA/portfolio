@@ -3,7 +3,11 @@ import "../styles/background.css"
 
 function background() {
     return(
-        <img src={img} alt = "background" className="background"></img>
+        <div id="profile">
+            <hr></hr>
+            <h2>Profile</h2>
+            <img src={img} alt = "background" className="background"></img>
+        </div>
     )
 }
 

@@ -1,7 +1,6 @@
 function aboutme(){
     return(
-        <div id="aboutme">
-            <hr></hr>
+        <div>
             <p><b>학력 : 조선대학교 컴퓨터공학과 1학년</b></p>
             <p>고등학생때까지 취미로 조금씩 코딩을 하다가 전문적으로 배워보고싶어서 진학하게 되었습니다.</p>
             <p><b>Github : <a href="https://github.com/SUN-AAA">Visit</a></b></p>

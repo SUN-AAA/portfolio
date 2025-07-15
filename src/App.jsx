@@ -1,12 +1,16 @@
 import './App.css';
-import P1 from "./pages/p1";
-import P2 from "./pages/p2";
+import Home from "./pages/home";
+import Profile from "./pages/profile";
+import Aboutme from "./pages/aboutme";
+import Project from "./pages/project";
 
 function App() {
   return (
     <div className="App">
-      <P1/>
-      <P2/>
+      <Home/>
+      <Profile/>
+      <Aboutme/>
+      <Project/>
     </div>
   );
 }
