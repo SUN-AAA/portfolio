@@ -1,18 +1,12 @@
 import './App.css';
-import Background from './components/background';
-import Profile from './components/profile';
-import Header from './components/header';
-import Nav from './components/nav';
-import Aboutme from './components/aboutme';
+import P1 from "./pages/p1";
+import P2 from "./pages/p2";
 
 function App() {
   return (
     <div className="App">
-      <Header/>
-      <Nav/>
-      <Background/>
-      <Profile/>
-      <Aboutme/>
+      <P1/>
+      <P2/>
     </div>
   );
 }
