@@ -1,7 +1,7 @@
 import Header from "../components/header";
 import Nav from "../components/nav";
 
-function p1() {
+function home() {
     return(
         <div>
             <Header/>
@@ -10,4 +10,4 @@ function p1() {
     )
 }
 
-export default p1;
+export default home;

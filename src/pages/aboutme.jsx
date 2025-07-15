@@ -1,6 +1,6 @@
 import Aboutme from "../components/aboutme";
 
-function p2(){
+function aboutme(){
     return(
         <div id="aboutme">
             <hr></hr>
@@ -10,4 +10,4 @@ function p2(){
     )
 }
 
-export default p2;
+export default aboutme;
