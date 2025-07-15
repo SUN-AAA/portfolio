@@ -9,11 +9,20 @@ function aboutme(){
             <img src="https://mazassumnida.wtf/api/generate_badge?boj=sunna0626" alt="Solved.ac Profile" />
             </a>
             <p><b>Language : C, javaScript, Python, HTML, CSS</b></p>
+            <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white"></img>
+            <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"></img>
+            <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img>
+            <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
+            <img src="https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=white"></img>
             <p><b>Tools : Notion, Discord, Github 등</b></p>
+            <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"></img>
+            <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></img>
+            <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></img>
             <p><b>Learning : React, Node.js</b></p>
             <br></br>
             <br></br>
         </div>
     )
 }
+
 export default aboutme;
