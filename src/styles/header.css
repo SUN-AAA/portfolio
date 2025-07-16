@@ -1,0 +1,14 @@
+.fixednav{
+    position:fixed;
+    background-color:rgb(227, 227, 227);
+    bottom:20px;
+    right:20px;
+    border-radius:5px;
+    padding: 3px 10px;
+}
+
+.font{
+    text-decoration: none;
+    font-size:20px;
+    color:black;
+}
