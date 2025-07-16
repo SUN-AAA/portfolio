@@ -1,3 +1,5 @@
+import "../styles/link.css";
+
 function header() {
     return(
         <div>
