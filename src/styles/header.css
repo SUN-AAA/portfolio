@@ -2,25 +2,25 @@
     position:fixed;
     display:flex;
     top:0px;
-    left:85px;
+    right:85px;
     justify-content: left;
     gap: 10px;
     align-items: left;
     text-align: center;
 }
 
-.topLeftBox{
+.topRightBox{
     position:fixed;
     display:flex;
     top:0px;
-    left:10px;
+    right:10px;
     justify-content: left;
     gap: 10px;
     align-items: left;
     text-align: center;
 }
 
-.topLeftBoxItem {
+.topRightBoxItem {
     font-size: 15px;
     padding: 4px 10px;
     text-decoration: none;
