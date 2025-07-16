@@ -1,10 +1,8 @@
-import Profile from "../components/profile";
-import Background from"../components/background";
+import Profile from"../components/profile";
 
 function profile(){
     return(
         <div id="profile">
-            <Background/>
             <Profile/>
         </div>
     )
