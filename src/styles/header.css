@@ -1,14 +1,32 @@
-.fixednav{
+.homebutton{
     position:fixed;
-    background-color:rgb(227, 227, 227);
-    bottom:20px;
-    right:20px;
-    border-radius:5px;
-    padding: 3px 10px;
+    display:flex;
+    top:0px;
+    left:85px;
+    justify-content: left;
+    gap: 10px;
+    align-items: left;
+    text-align: center;
 }
 
-.font{
-    text-decoration: none;
-    font-size:20px;
-    color:black;
+.topLeftBox{
+    position:fixed;
+    display:flex;
+    top:0px;
+    left:10px;
+    justify-content: left;
+    gap: 10px;
+    align-items: left;
+    text-align: center;
 }
+
+.topLeftBoxItem {
+    font-size: 15px;
+    padding: 4px 10px;
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #000000;
+    border-radius: 5px;
+    transition: 0.3s;
+}
+
