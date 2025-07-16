@@ -8,6 +8,8 @@ function aboutme(){
             <a href="https://solved.ac/profile/sunna0626">
             <img src="https://mazassumnida.wtf/api/generate_badge?boj=sunna0626" alt="Solved.ac Profile" />
             </a>
+            <p><b>Mail : sun20060626@gmail.com</b></p>
+            <p><b>Instagram : sunor06</b></p>
             <p><b>Language : C, javaScript, Python, HTML, CSS</b></p>
             <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white"></img>
             <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"></img>
