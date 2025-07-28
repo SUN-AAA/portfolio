@@ -25,9 +25,9 @@ React와 Vite를 기반으로 제작되었으며, 프론트엔드 기술을 중�
 ## 📂 구동 화면
 <img width="2780" height="1649" alt="Image" src="https://github.com/user-attachments/assets/28ac38c6-f388-4800-9ede-93f510659cee" />
 
-<img width="2792" height="1498" alt="Image" src="https://github.com/user-attachments/assets/2ec7b950-eec0-4e57-8799-1d1f3525eebe" />
-
 <img width="2775" height="1412" alt="Image" src="https://github.com/user-attachments/assets/defd31e6-cb57-4b88-b9cd-43028cddbc3c" />
+
+<img width="2792" height="1498" alt="Image" src="https://github.com/user-attachments/assets/2ec7b950-eec0-4e57-8799-1d1f3525eebe" />
 
 <img width="2763" height="919" alt="Image" src="https://github.com/user-attachments/assets/9e9b88c3-4a01-458e-aa96-b20d95f954fb" />
 
