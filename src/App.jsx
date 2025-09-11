@@ -3,7 +3,6 @@ import Home from "./pages/home";
 import Profile from "./pages/profile";
 import Aboutme from "./pages/aboutme";
 import Project from "./pages/project";
-import GwangjuWeather from './components/GwangjuWeather';
 
 function App() {
   return (
@@ -12,7 +11,6 @@ function App() {
       <Profile/>
       <Aboutme/>
       <Project/>
-      <GwangjuWeather />
     </div>
   );
 }
