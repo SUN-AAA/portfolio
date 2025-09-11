@@ -1,12 +1,41 @@
-# sunaaa portfolio project
+# 🌐 sunaaa.kr
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Visit : [www.sunaaa.kr](https://www.sunaaa.kr) <br>
+React와 Vite를 기반으로 제작되었으며, 프론트엔드 기술을 중심으로 학습하고 프로젝트를 정리하는 공간입니다.
 
-Currently, two official plugins are available:
+<br>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 구성
 
-## Expanding the ESLint configuration
+- 우측 상단 `Home` 버튼과 `Github` 버튼을 통해 각각 Home 화면과 Github 프로필로 이동할 수 있도록 프로그래밍 하였습니다.
+- header에 네비게이션을 추가하여 `profile`, `aboutme`, `project` 페이지로 이동할 수 있도록 프로그래밍 하였습니다.
+- profile에는 사진과 인사말을, about me에는 저의 이력을, project에는 제가 진행한 프로젝트 링크를 올려놓았습니다.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<br>
+
+## 🛠️ 사용 기술
+
+- **Frontend**: `React`, `JavaScript`, `Vite`
+- **Styling**: `CSS`, `Flexbox`
+- **Deployment**: `Github Pages` , `Cloudtype` 
+- **Domain**: 커스텀 도메인 [sunaaa.kr](https://www.sunaaa.kr)
+
+<br>
+
+## 📂 구동 화면
+<img width="2780" height="1649" alt="Image" src="https://github.com/user-attachments/assets/28ac38c6-f388-4800-9ede-93f510659cee" />
+
+**Home 화면과 네비게이션**
+
+<img width="2775" height="1412" alt="Image" src="https://github.com/user-attachments/assets/defd31e6-cb57-4b88-b9cd-43028cddbc3c" />
+
+**Profile**
+
+<img width="2792" height="1498" alt="Image" src="https://github.com/user-attachments/assets/2ec7b950-eec0-4e57-8799-1d1f3525eebe" />
+
+**About Me**
+
+<img width="2763" height="919" alt="Image" src="https://github.com/user-attachments/assets/9e9b88c3-4a01-458e-aa96-b20d95f954fb" />
+
+**Project**
+
