@@ -1,7 +1,8 @@
 # 🌐 sunaaa.kr
 
 Visit : [www.sunaaa.kr](https://www.sunaaa.kr) <br>
-React와 Vite를 기반으로 제작되었으며, 프론트엔드 기술을 중심으로 학습하고 프로젝트를 정리하는 공간입니다.
+React와 Vite를 기반으로 제작되었으며, 프론트엔드 기술을 중심으로 학습하고 프로젝트를 정리하는 공간입니다. <br/>
+Notion : https://www.notion.so/229a7b218ece80f9a4c8e721b7ab5040?source=copy_link
 
 <br>
 
